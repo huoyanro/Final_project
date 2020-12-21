@@ -1,0 +1,521 @@
+Age,Gender,Province,Education,Count,cell
+25 to 34,Male,Newfoundland and Labrador,No certificate,2615,Male 25 to 34
+25 to 34,Male,Newfoundland and Labrador,High school,6440,Male 25 to 34
+25 to 34,Male,Newfoundland and Labrador,College,7030,Male 25 to 34
+25 to 34,Male,Newfoundland and Labrador,Some university,645,Male 25 to 34
+25 to 34,Male,Newfoundland and Labrador,Bachelor's degree or above,5800,Male 25 to 34
+25 to 34,Female,Newfoundland and Labrador,No certificate,1970,Female 25 to 34
+25 to 34,Female,Newfoundland and Labrador,High school,6345,Female 25 to 34
+25 to 34,Female,Newfoundland and Labrador,College,8910,Female 25 to 34
+25 to 34,Female,Newfoundland and Labrador,Some university,620,Female 25 to 34
+25 to 34,Female,Newfoundland and Labrador,Bachelor's degree or above,9910,Female 25 to 34
+35 to 44,Male,Newfoundland and Labrador,No certificate,3895,Male 35 to 44
+35 to 44,Male,Newfoundland and Labrador,High school,6425,Male 35 to 44
+35 to 44,Male,Newfoundland and Labrador,College,8905,Male 35 to 44
+35 to 44,Male,Newfoundland and Labrador,Some university,670,Male 35 to 44
+35 to 44,Male,Newfoundland and Labrador,Bachelor's degree or above,5900,Male 35 to 44
+35 to 44,Female,Newfoundland and Labrador,No certificate,2715,Female 35 to 44
+35 to 44,Female,Newfoundland and Labrador,High school,6830,Female 35 to 44
+35 to 44,Female,Newfoundland and Labrador,College,12360,Female 35 to 44
+35 to 44,Female,Newfoundland and Labrador,Some university,820,Female 35 to 44
+35 to 44,Female,Newfoundland and Labrador,Bachelor's degree or above,9095,Female 35 to 44
+45 to 54,Male,Newfoundland and Labrador,No certificate,7610,Male 45 to 54
+45 to 54,Male,Newfoundland and Labrador,High school,7990,Male 45 to 54
+45 to 54,Male,Newfoundland and Labrador,College,10075,Male 45 to 54
+45 to 54,Male,Newfoundland and Labrador,Some university,780,Male 45 to 54
+45 to 54,Male,Newfoundland and Labrador,Bachelor's degree or above,5250,Male 45 to 54
+45 to 54,Female,Newfoundland and Labrador,No certificate,6335,Female 45 to 54
+45 to 54,Female,Newfoundland and Labrador,High school,9535,Female 45 to 54
+45 to 54,Female,Newfoundland and Labrador,College,14655,Female 45 to 54
+45 to 54,Female,Newfoundland and Labrador,Some university,1065,Female 45 to 54
+45 to 54,Female,Newfoundland and Labrador,Bachelor's degree or above,7160,Female 45 to 54
+55 to 64,Male,Newfoundland and Labrador,No certificate,9845,Male 55 to 64
+55 to 64,Male,Newfoundland and Labrador,High school,9445,Male 55 to 64
+55 to 64,Male,Newfoundland and Labrador,College,8170,Male 55 to 64
+55 to 64,Male,Newfoundland and Labrador,Some university,875,Male 55 to 64
+55 to 64,Male,Newfoundland and Labrador,Bachelor's degree or above,4805,Male 55 to 64
+55 to 64,Female,Newfoundland and Labrador,No certificate,10175,Female 55 to 64
+55 to 64,Female,Newfoundland and Labrador,High school,12195,Female 55 to 64
+55 to 64,Female,Newfoundland and Labrador,College,11855,Female 55 to 64
+55 to 64,Female,Newfoundland and Labrador,Some university,1205,Female 55 to 64
+55 to 64,Female,Newfoundland and Labrador,Bachelor's degree or above,4860,Female 55 to 64
+25 to 34,Male,Prince Edward Island,No certificate,590,Male 25 to 34
+25 to 34,Male,Prince Edward Island,High school,2450,Male 25 to 34
+25 to 34,Male,Prince Edward Island,College,1685,Male 25 to 34
+25 to 34,Male,Prince Edward Island,Some university,105,Male 25 to 34
+25 to 34,Male,Prince Edward Island,Bachelor's degree or above,1945,Male 25 to 34
+25 to 34,Female,Prince Edward Island,No certificate,405,Female 25 to 34
+25 to 34,Female,Prince Edward Island,High school,1575,Female 25 to 34
+25 to 34,Female,Prince Edward Island,College,2320,Female 25 to 34
+25 to 34,Female,Prince Edward Island,Some university,155,Female 25 to 34
+25 to 34,Female,Prince Edward Island,Bachelor's degree or above,3075,Female 25 to 34
+35 to 44,Male,Prince Edward Island,No certificate,830,Male 35 to 44
+35 to 44,Male,Prince Edward Island,High school,2070,Male 35 to 44
+35 to 44,Male,Prince Edward Island,College,2405,Male 35 to 44
+35 to 44,Male,Prince Edward Island,Some university,215,Male 35 to 44
+35 to 44,Male,Prince Edward Island,Bachelor's degree or above,1590,Male 35 to 44
+35 to 44,Female,Prince Edward Island,No certificate,445,Female 35 to 44
+35 to 44,Female,Prince Edward Island,High school,1820,Female 35 to 44
+35 to 44,Female,Prince Edward Island,College,3100,Female 35 to 44
+35 to 44,Female,Prince Edward Island,Some university,210,Female 35 to 44
+35 to 44,Female,Prince Edward Island,Bachelor's degree or above,2980,Female 35 to 44
+45 to 54,Male,Prince Edward Island,No certificate,1810,Male 45 to 54
+45 to 54,Male,Prince Edward Island,High school,2565,Male 45 to 54
+45 to 54,Male,Prince Edward Island,College,2280,Male 45 to 54
+45 to 54,Male,Prince Edward Island,Some university,175,Male 45 to 54
+45 to 54,Male,Prince Edward Island,Bachelor's degree or above,1830,Male 45 to 54
+45 to 54,Female,Prince Edward Island,No certificate,895,Female 45 to 54
+45 to 54,Female,Prince Edward Island,High school,2485,Female 45 to 54
+45 to 54,Female,Prince Edward Island,College,3730,Female 45 to 54
+45 to 54,Female,Prince Edward Island,Some university,345,Female 45 to 54
+45 to 54,Female,Prince Edward Island,Bachelor's degree or above,2605,Female 45 to 54
+55 to 64,Male,Prince Edward Island,No certificate,2315,Male 55 to 64
+55 to 64,Male,Prince Edward Island,High school,2650,Male 55 to 64
+55 to 64,Male,Prince Edward Island,College,1865,Male 55 to 64
+55 to 64,Male,Prince Edward Island,Some university,225,Male 55 to 64
+55 to 64,Male,Prince Edward Island,Bachelor's degree or above,1570,Male 55 to 64
+55 to 64,Female,Prince Edward Island,No certificate,1655,Female 55 to 64
+55 to 64,Female,Prince Edward Island,High school,3055,Female 55 to 64
+55 to 64,Female,Prince Edward Island,College,3590,Female 55 to 64
+55 to 64,Female,Prince Edward Island,Some university,430,Female 55 to 64
+55 to 64,Female,Prince Edward Island,Bachelor's degree or above,2010,Female 55 to 64
+25 to 34,Male,Nova Scotia,No certificate,4845,Male 25 to 34
+25 to 34,Male,Nova Scotia,High school,14595,Male 25 to 34
+25 to 34,Male,Nova Scotia,College,11285,Male 25 to 34
+25 to 34,Male,Nova Scotia,Some university,750,Male 25 to 34
+25 to 34,Male,Nova Scotia,Bachelor's degree or above,13605,Male 25 to 34
+25 to 34,Female,Nova Scotia,No certificate,2885,Female 25 to 34
+25 to 34,Female,Nova Scotia,High school,11125,Female 25 to 34
+25 to 34,Female,Nova Scotia,College,14705,Female 25 to 34
+25 to 34,Female,Nova Scotia,Some university,1025,Female 25 to 34
+25 to 34,Female,Nova Scotia,Bachelor's degree or above,21635,Female 25 to 34
+35 to 44,Male,Nova Scotia,No certificate,5420,Male 35 to 44
+35 to 44,Male,Nova Scotia,High school,12850,Male 35 to 44
+35 to 44,Male,Nova Scotia,College,12680,Male 35 to 44
+35 to 44,Male,Nova Scotia,Some university,840,Male 35 to 44
+35 to 44,Male,Nova Scotia,Bachelor's degree or above,12830,Male 35 to 44
+35 to 44,Female,Nova Scotia,No certificate,3420,Female 35 to 44
+35 to 44,Female,Nova Scotia,High school,10905,Female 35 to 44
+35 to 44,Female,Nova Scotia,College,17840,Female 35 to 44
+35 to 44,Female,Nova Scotia,Some university,1315,Female 35 to 44
+35 to 44,Female,Nova Scotia,Bachelor's degree or above,20595,Female 35 to 44
+45 to 54,Male,Nova Scotia,No certificate,10545,Male 45 to 54
+45 to 54,Male,Nova Scotia,High school,14425,Male 45 to 54
+45 to 54,Male,Nova Scotia,College,14785,Male 45 to 54
+45 to 54,Male,Nova Scotia,Some university,1300,Male 45 to 54
+45 to 54,Male,Nova Scotia,Bachelor's degree or above,13220,Male 45 to 54
+45 to 54,Female,Nova Scotia,No certificate,7235,Female 45 to 54
+45 to 54,Female,Nova Scotia,High school,16305,Female 45 to 54
+45 to 54,Female,Nova Scotia,College,22945,Female 45 to 54
+45 to 54,Female,Nova Scotia,Some university,2235,Female 45 to 54
+45 to 54,Female,Nova Scotia,Bachelor's degree or above,17225,Female 45 to 54
+55 to 64,Male,Nova Scotia,No certificate,14015,Male 55 to 64
+55 to 64,Male,Nova Scotia,High school,15730,Male 55 to 64
+55 to 64,Male,Nova Scotia,College,13140,Male 55 to 64
+55 to 64,Male,Nova Scotia,Some university,1435,Male 55 to 64
+55 to 64,Male,Nova Scotia,Bachelor's degree or above,12250,Male 55 to 64
+55 to 64,Female,Nova Scotia,No certificate,11925,Female 55 to 64
+55 to 64,Female,Nova Scotia,High school,20345,Female 55 to 64
+55 to 64,Female,Nova Scotia,College,20630,Female 55 to 64
+55 to 64,Female,Nova Scotia,Some university,2700,Female 55 to 64
+55 to 64,Female,Nova Scotia,Bachelor's degree or above,14615,Female 55 to 64
+25 to 34,Male,New Brunswick,No certificate,3895,Male 25 to 34
+25 to 34,Male,New Brunswick,High school,12840,Male 25 to 34
+25 to 34,Male,New Brunswick,College,9960,Male 25 to 34
+25 to 34,Male,New Brunswick,Some university,395,Male 25 to 34
+25 to 34,Male,New Brunswick,Bachelor's degree or above,7955,Male 25 to 34
+25 to 34,Female,New Brunswick,No certificate,2430,Female 25 to 34
+25 to 34,Female,New Brunswick,High school,9180,Female 25 to 34
+25 to 34,Female,New Brunswick,College,12840,Female 25 to 34
+25 to 34,Female,New Brunswick,Some university,575,Female 25 to 34
+25 to 34,Female,New Brunswick,Bachelor's degree or above,13645,Female 25 to 34
+35 to 44,Male,New Brunswick,No certificate,4990,Male 35 to 44
+35 to 44,Male,New Brunswick,High school,12890,Male 35 to 44
+35 to 44,Male,New Brunswick,College,12335,Male 35 to 44
+35 to 44,Male,New Brunswick,Some university,650,Male 35 to 44
+35 to 44,Male,New Brunswick,Bachelor's degree or above,8775,Male 35 to 44
+35 to 44,Female,New Brunswick,No certificate,2800,Female 35 to 44
+35 to 44,Female,New Brunswick,High school,10855,Female 35 to 44
+35 to 44,Female,New Brunswick,College,16305,Female 35 to 44
+35 to 44,Female,New Brunswick,Some university,1050,Female 35 to 44
+35 to 44,Female,New Brunswick,Bachelor's degree or above,13995,Female 35 to 44
+45 to 54,Male,New Brunswick,No certificate,9530,Male 45 to 54
+45 to 54,Male,New Brunswick,High school,15320,Male 45 to 54
+45 to 54,Male,New Brunswick,College,11595,Male 45 to 54
+45 to 54,Male,New Brunswick,Some university,745,Male 45 to 54
+45 to 54,Male,New Brunswick,Bachelor's degree or above,8885,Male 45 to 54
+45 to 54,Female,New Brunswick,No certificate,6335,Female 45 to 54
+45 to 54,Female,New Brunswick,High school,16960,Female 45 to 54
+45 to 54,Female,New Brunswick,College,17110,Female 45 to 54
+45 to 54,Female,New Brunswick,Some university,1720,Female 45 to 54
+45 to 54,Female,New Brunswick,Bachelor's degree or above,11620,Female 45 to 54
+55 to 64,Male,New Brunswick,No certificate,13965,Male 55 to 64
+55 to 64,Male,New Brunswick,High school,15385,Male 55 to 64
+55 to 64,Male,New Brunswick,College,9805,Male 55 to 64
+55 to 64,Male,New Brunswick,Some university,865,Male 55 to 64
+55 to 64,Male,New Brunswick,Bachelor's degree or above,7575,Male 55 to 64
+55 to 64,Female,New Brunswick,No certificate,11690,Female 55 to 64
+55 to 64,Female,New Brunswick,High school,20905,Female 55 to 64
+55 to 64,Female,New Brunswick,College,14640,Female 55 to 64
+55 to 64,Female,New Brunswick,Some university,1665,Female 55 to 64
+55 to 64,Female,New Brunswick,Bachelor's degree or above,8365,Female 55 to 64
+25 to 34,Male,Quebec,No certificate,65410,Male 25 to 34
+25 to 34,Male,Quebec,High school,81515,Male 25 to 34
+25 to 34,Male,Quebec,College,83535,Male 25 to 34
+25 to 34,Male,Quebec,Some university,11980,Male 25 to 34
+25 to 34,Male,Quebec,Bachelor's degree or above,129210,Male 25 to 34
+25 to 34,Female,Quebec,No certificate,40225,Female 25 to 34
+25 to 34,Female,Quebec,High school,64065,Female 25 to 34
+25 to 34,Female,Quebec,College,107900,Female 25 to 34
+25 to 34,Female,Quebec,Some university,19195,Female 25 to 34
+25 to 34,Female,Quebec,Bachelor's degree or above,191430,Female 25 to 34
+35 to 44,Male,Quebec,No certificate,61410,Male 35 to 44
+35 to 44,Male,Quebec,High school,80575,Male 35 to 44
+35 to 44,Male,Quebec,College,97685,Male 35 to 44
+35 to 44,Male,Quebec,Some university,17525,Male 35 to 44
+35 to 44,Male,Quebec,Bachelor's degree or above,139320,Male 35 to 44
+35 to 44,Female,Quebec,No certificate,42880,Female 35 to 44
+35 to 44,Female,Quebec,High school,66155,Female 35 to 44
+35 to 44,Female,Quebec,College,118485,Female 35 to 44
+35 to 44,Female,Quebec,Some university,25780,Female 35 to 44
+35 to 44,Female,Quebec,Bachelor's degree or above,187405,Female 35 to 44
+45 to 54,Male,Quebec,No certificate,84280,Male 45 to 54
+45 to 54,Male,Quebec,High school,102335,Male 45 to 54
+45 to 54,Male,Quebec,College,99090,Male 45 to 54
+45 to 54,Male,Quebec,Some university,18615,Male 45 to 54
+45 to 54,Male,Quebec,Bachelor's degree or above,125125,Male 45 to 54
+45 to 54,Female,Quebec,No certificate,67925,Female 45 to 54
+45 to 54,Female,Quebec,High school,108975,Female 45 to 54
+45 to 54,Female,Quebec,College,126495,Female 45 to 54
+45 to 54,Female,Quebec,Some university,26690,Female 45 to 54
+45 to 54,Female,Quebec,Bachelor's degree or above,138330,Female 45 to 54
+55 to 64,Male,Quebec,No certificate,112780,Male 55 to 64
+55 to 64,Male,Quebec,High school,132210,Male 55 to 64
+55 to 64,Male,Quebec,College,86875,Male 55 to 64
+55 to 64,Male,Quebec,Some university,19410,Male 55 to 64
+55 to 64,Male,Quebec,Bachelor's degree or above,105365,Male 55 to 64
+55 to 64,Female,Quebec,No certificate,105715,Female 55 to 64
+55 to 64,Female,Quebec,High school,173140,Female 55 to 64
+55 to 64,Female,Quebec,College,112365,Female 55 to 64
+55 to 64,Female,Quebec,Some university,27830,Female 55 to 64
+55 to 64,Female,Quebec,Bachelor's degree or above,100120,Female 55 to 64
+25 to 34,Male,Ontario,No certificate,76690,Male 25 to 34
+25 to 34,Male,Ontario,High school,221190,Male 25 to 34
+25 to 34,Male,Ontario,College,194880,Male 25 to 34
+25 to 34,Male,Ontario,Some university,16090,Male 25 to 34
+25 to 34,Male,Ontario,Bachelor's degree or above,281395,Male 25 to 34
+25 to 34,Female,Ontario,No certificate,55685,Female 25 to 34
+25 to 34,Female,Ontario,High school,155840,Female 25 to 34
+25 to 34,Female,Ontario,College,232805,Female 25 to 34
+25 to 34,Female,Ontario,Some university,19265,Female 25 to 34
+25 to 34,Female,Ontario,Bachelor's degree or above,393730,Female 25 to 34
+35 to 44,Male,Ontario,No certificate,74185,Male 35 to 44
+35 to 44,Male,Ontario,High school,200580,Male 35 to 44
+35 to 44,Male,Ontario,College,187215,Male 35 to 44
+35 to 44,Male,Ontario,Some university,17645,Male 35 to 44
+35 to 44,Male,Ontario,Bachelor's degree or above,269630,Male 35 to 44
+35 to 44,Female,Ontario,No certificate,61130,Female 35 to 44
+35 to 44,Female,Ontario,High school,167105,Female 35 to 44
+35 to 44,Female,Ontario,College,251610,Female 35 to 44
+35 to 44,Female,Ontario,Some university,24205,Female 35 to 44
+35 to 44,Female,Ontario,Bachelor's degree or above,357705,Female 35 to 44
+45 to 54,Male,Ontario,No certificate,113985,Male 45 to 54
+45 to 54,Male,Ontario,High school,243260,Male 45 to 54
+45 to 54,Male,Ontario,College,207030,Male 45 to 54
+45 to 54,Male,Ontario,Some university,22225,Male 45 to 54
+45 to 54,Male,Ontario,Bachelor's degree or above,279580,Male 45 to 54
+45 to 54,Female,Ontario,No certificate,96070,Female 45 to 54
+45 to 54,Female,Ontario,High school,255435,Female 45 to 54
+45 to 54,Female,Ontario,College,293700,Female 45 to 54
+45 to 54,Female,Ontario,Some university,28515,Female 45 to 54
+45 to 54,Female,Ontario,Bachelor's degree or above,305535,Female 45 to 54
+55 to 64,Male,Ontario,No certificate,139910,Male 55 to 64
+55 to 64,Male,Ontario,High school,229995,Male 55 to 64
+55 to 64,Male,Ontario,College,173380,Male 55 to 64
+55 to 64,Male,Ontario,Some university,19975,Male 55 to 64
+55 to 64,Male,Ontario,Bachelor's degree or above,213820,Male 55 to 64
+55 to 64,Female,Ontario,No certificate,135345,Female 55 to 64
+55 to 64,Female,Ontario,High school,295565,Female 55 to 64
+55 to 64,Female,Ontario,College,241910,Female 55 to 64
+55 to 64,Female,Ontario,Some university,23005,Female 55 to 64
+55 to 64,Female,Ontario,Bachelor's degree or above,205925,Female 55 to 64
+25 to 34,Male,Manitoba,No certificate,12075,Male 25 to 34
+25 to 34,Male,Manitoba,High school,27250,Male 25 to 34
+25 to 34,Male,Manitoba,College,13500,Male 25 to 34
+25 to 34,Male,Manitoba,Some university,1790,Male 25 to 34
+25 to 34,Male,Manitoba,Bachelor's degree or above,20570,Male 25 to 34
+25 to 34,Female,Manitoba,No certificate,8320,Female 25 to 34
+25 to 34,Female,Manitoba,High school,21710,Female 25 to 34
+25 to 34,Female,Manitoba,College,18140,Female 25 to 34
+25 to 34,Female,Manitoba,Some university,2305,Female 25 to 34
+25 to 34,Female,Manitoba,Bachelor's degree or above,31045,Female 25 to 34
+35 to 44,Male,Manitoba,No certificate,10470,Male 35 to 44
+35 to 44,Male,Manitoba,High school,21890,Male 35 to 44
+35 to 44,Male,Manitoba,College,14690,Male 35 to 44
+35 to 44,Male,Manitoba,Some university,2210,Male 35 to 44
+35 to 44,Male,Manitoba,Bachelor's degree or above,19380,Male 35 to 44
+35 to 44,Female,Manitoba,No certificate,7650,Female 35 to 44
+35 to 44,Female,Manitoba,High school,18705,Female 35 to 44
+35 to 44,Female,Manitoba,College,20590,Female 35 to 44
+35 to 44,Female,Manitoba,Some university,2605,Female 35 to 44
+35 to 44,Female,Manitoba,Bachelor's degree or above,27085,Female 35 to 44
+45 to 54,Male,Manitoba,No certificate,14390,Male 45 to 54
+45 to 54,Male,Manitoba,High school,22350,Male 45 to 54
+45 to 54,Male,Manitoba,College,15585,Male 45 to 54
+45 to 54,Male,Manitoba,Some university,2605,Male 45 to 54
+45 to 54,Male,Manitoba,Bachelor's degree or above,17260,Male 45 to 54
+45 to 54,Female,Manitoba,No certificate,10250,Female 45 to 54
+45 to 54,Female,Manitoba,High school,23150,Female 45 to 54
+45 to 54,Female,Manitoba,College,22060,Female 45 to 54
+45 to 54,Female,Manitoba,Some university,3690,Female 45 to 54
+45 to 54,Female,Manitoba,Bachelor's degree or above,20350,Female 45 to 54
+55 to 64,Male,Manitoba,No certificate,17765,Male 55 to 64
+55 to 64,Male,Manitoba,High school,21510,Male 55 to 64
+55 to 64,Male,Manitoba,College,13670,Male 55 to 64
+55 to 64,Male,Manitoba,Some university,2390,Male 55 to 64
+55 to 64,Male,Manitoba,Bachelor's degree or above,13760,Male 55 to 64
+55 to 64,Female,Manitoba,No certificate,13385,Female 55 to 64
+55 to 64,Female,Manitoba,High school,25760,Female 55 to 64
+55 to 64,Female,Manitoba,College,19700,Female 55 to 64
+55 to 64,Female,Manitoba,Some university,3615,Female 55 to 64
+55 to 64,Female,Manitoba,Bachelor's degree or above,15635,Female 55 to 64
+25 to 34,Male,Saskatchewan,No certificate,8870,Male 25 to 34
+25 to 34,Male,Saskatchewan,High school,25725,Male 25 to 34
+25 to 34,Male,Saskatchewan,College,10555,Male 25 to 34
+25 to 34,Male,Saskatchewan,Some university,1530,Male 25 to 34
+25 to 34,Male,Saskatchewan,Bachelor's degree or above,17585,Male 25 to 34
+25 to 34,Female,Saskatchewan,No certificate,6115,Female 25 to 34
+25 to 34,Female,Saskatchewan,High school,19600,Female 25 to 34
+25 to 34,Female,Saskatchewan,College,17285,Female 25 to 34
+25 to 34,Female,Saskatchewan,Some university,2230,Female 25 to 34
+25 to 34,Female,Saskatchewan,Bachelor's degree or above,26590,Female 25 to 34
+35 to 44,Male,Saskatchewan,No certificate,7700,Male 35 to 44
+35 to 44,Male,Saskatchewan,High school,20640,Male 35 to 44
+35 to 44,Male,Saskatchewan,College,10815,Male 35 to 44
+35 to 44,Male,Saskatchewan,Some university,1735,Male 35 to 44
+35 to 44,Male,Saskatchewan,Bachelor's degree or above,15040,Male 35 to 44
+35 to 44,Female,Saskatchewan,No certificate,4905,Female 35 to 44
+35 to 44,Female,Saskatchewan,High school,16445,Female 35 to 44
+35 to 44,Female,Saskatchewan,College,18275,Female 35 to 44
+35 to 44,Female,Saskatchewan,Some university,2570,Female 35 to 44
+35 to 44,Female,Saskatchewan,Bachelor's degree or above,20885,Female 35 to 44
+45 to 54,Male,Saskatchewan,No certificate,11155,Male 45 to 54
+45 to 54,Male,Saskatchewan,High school,20680,Male 45 to 54
+45 to 54,Male,Saskatchewan,College,10335,Male 45 to 54
+45 to 54,Male,Saskatchewan,Some university,2020,Male 45 to 54
+45 to 54,Male,Saskatchewan,Bachelor's degree or above,11990,Male 45 to 54
+45 to 54,Female,Saskatchewan,No certificate,7125,Female 45 to 54
+45 to 54,Female,Saskatchewan,High school,18940,Female 45 to 54
+45 to 54,Female,Saskatchewan,College,20120,Female 45 to 54
+45 to 54,Female,Saskatchewan,Some university,3265,Female 45 to 54
+45 to 54,Female,Saskatchewan,Bachelor's degree or above,14390,Female 45 to 54
+55 to 64,Male,Saskatchewan,No certificate,14320,Male 55 to 64
+55 to 64,Male,Saskatchewan,High school,21480,Male 55 to 64
+55 to 64,Male,Saskatchewan,College,9380,Male 55 to 64
+55 to 64,Male,Saskatchewan,Some university,2490,Male 55 to 64
+55 to 64,Male,Saskatchewan,Bachelor's degree or above,9575,Male 55 to 64
+55 to 64,Female,Saskatchewan,No certificate,9010,Female 55 to 64
+55 to 64,Female,Saskatchewan,High school,24525,Female 55 to 64
+55 to 64,Female,Saskatchewan,College,18320,Female 55 to 64
+55 to 64,Female,Saskatchewan,Some university,3535,Female 55 to 64
+55 to 64,Female,Saskatchewan,Bachelor's degree or above,11525,Female 55 to 64
+25 to 34,Male,Alberta,No certificate,33665,Male 25 to 34
+25 to 34,Male,Alberta,High school,89560,Male 25 to 34
+25 to 34,Male,Alberta,College,51715,Male 25 to 34
+25 to 34,Male,Alberta,Some university,7680,Male 25 to 34
+25 to 34,Male,Alberta,Bachelor's degree or above,86270,Male 25 to 34
+25 to 34,Female,Alberta,No certificate,25605,Female 25 to 34
+25 to 34,Female,Alberta,High school,72620,Female 25 to 34
+25 to 34,Female,Alberta,College,74170,Female 25 to 34
+25 to 34,Female,Alberta,Some university,12330,Female 25 to 34
+25 to 34,Female,Alberta,Bachelor's degree or above,119760,Female 25 to 34
+35 to 44,Male,Alberta,No certificate,29680,Male 35 to 44
+35 to 44,Male,Alberta,High school,69665,Male 35 to 44
+35 to 44,Male,Alberta,College,55210,Male 35 to 44
+35 to 44,Male,Alberta,Some university,8485,Male 35 to 44
+35 to 44,Male,Alberta,Bachelor's degree or above,82350,Male 35 to 44
+35 to 44,Female,Alberta,No certificate,23235,Female 35 to 44
+35 to 44,Female,Alberta,High school,60700,Female 35 to 44
+35 to 44,Female,Alberta,College,76245,Female 35 to 44
+35 to 44,Female,Alberta,Some university,11490,Female 35 to 44
+35 to 44,Female,Alberta,Bachelor's degree or above,105815,Female 35 to 44
+45 to 54,Male,Alberta,No certificate,34825,Male 45 to 54
+45 to 54,Male,Alberta,High school,65395,Male 45 to 54
+45 to 54,Male,Alberta,College,52835,Male 45 to 54
+45 to 54,Male,Alberta,Some university,7135,Male 45 to 54
+45 to 54,Male,Alberta,Bachelor's degree or above,68395,Male 45 to 54
+45 to 54,Female,Alberta,No certificate,27260,Female 45 to 54
+45 to 54,Female,Alberta,High school,72080,Female 45 to 54
+45 to 54,Female,Alberta,College,78155,Female 45 to 54
+45 to 54,Female,Alberta,Some university,11200,Female 45 to 54
+45 to 54,Female,Alberta,Bachelor's degree or above,71050,Female 45 to 54
+55 to 64,Male,Alberta,No certificate,37910,Male 55 to 64
+55 to 64,Male,Alberta,High school,58670,Male 55 to 64
+55 to 64,Male,Alberta,College,43595,Male 55 to 64
+55 to 64,Male,Alberta,Some university,6010,Male 55 to 64
+55 to 64,Male,Alberta,Bachelor's degree or above,52795,Male 55 to 64
+55 to 64,Female,Alberta,No certificate,32565,Female 55 to 64
+55 to 64,Female,Alberta,High school,80745,Female 55 to 64
+55 to 64,Female,Alberta,College,64455,Female 55 to 64
+55 to 64,Female,Alberta,Some university,8985,Female 55 to 64
+55 to 64,Female,Alberta,Bachelor's degree or above,49290,Female 55 to 64
+25 to 34,Male,British Columbia,No certificate,24480,Male 25 to 34
+25 to 34,Male,British Columbia,High school,90195,Male 25 to 34
+25 to 34,Male,British Columbia,College,46565,Male 25 to 34
+25 to 34,Male,British Columbia,Some university,11030,Male 25 to 34
+25 to 34,Male,British Columbia,Bachelor's degree or above,92565,Male 25 to 34
+25 to 34,Female,British Columbia,No certificate,17275,Female 25 to 34
+25 to 34,Female,British Columbia,High school,69830,Female 25 to 34
+25 to 34,Female,British Columbia,College,64400,Female 25 to 34
+25 to 34,Female,British Columbia,Some university,15460,Female 25 to 34
+25 to 34,Female,British Columbia,Bachelor's degree or above,127550,Female 25 to 34
+35 to 44,Male,British Columbia,No certificate,25250,Male 35 to 44
+35 to 44,Male,British Columbia,High school,73520,Male 35 to 44
+35 to 44,Male,British Columbia,College,50950,Male 35 to 44
+35 to 44,Male,British Columbia,Some university,9815,Male 35 to 44
+35 to 44,Male,British Columbia,Bachelor's degree or above,85790,Male 35 to 44
+35 to 44,Female,British Columbia,No certificate,19255,Female 35 to 44
+35 to 44,Female,British Columbia,High school,63755,Female 35 to 44
+35 to 44,Female,British Columbia,College,74885,Female 35 to 44
+35 to 44,Female,British Columbia,Some university,14920,Female 35 to 44
+35 to 44,Female,British Columbia,Bachelor's degree or above,116440,Female 35 to 44
+45 to 54,Male,British Columbia,No certificate,37380,Male 45 to 54
+45 to 54,Male,British Columbia,High school,83170,Male 45 to 54
+45 to 54,Male,British Columbia,College,57485,Male 45 to 54
+45 to 54,Male,British Columbia,Some university,9785,Male 45 to 54
+45 to 54,Male,British Columbia,Bachelor's degree or above,88640,Male 45 to 54
+45 to 54,Female,British Columbia,No certificate,30035,Female 45 to 54
+45 to 54,Female,British Columbia,High school,92595,Female 45 to 54
+45 to 54,Female,British Columbia,College,91830,Female 45 to 54
+45 to 54,Female,British Columbia,Some university,16400,Female 45 to 54
+45 to 54,Female,British Columbia,Bachelor's degree or above,99915,Female 45 to 54
+55 to 64,Male,British Columbia,No certificate,47300,Male 55 to 64
+55 to 64,Male,British Columbia,High school,83950,Male 55 to 64
+55 to 64,Male,British Columbia,College,55885,Male 55 to 64
+55 to 64,Male,British Columbia,Some university,8585,Male 55 to 64
+55 to 64,Male,British Columbia,Bachelor's degree or above,72410,Male 55 to 64
+55 to 64,Female,British Columbia,No certificate,43025,Female 55 to 64
+55 to 64,Female,British Columbia,High school,113995,Female 55 to 64
+55 to 64,Female,British Columbia,College,86810,Female 55 to 64
+55 to 64,Female,British Columbia,Some university,13710,Female 55 to 64
+55 to 64,Female,British Columbia,Bachelor's degree or above,74695,Female 55 to 64
+25 to 34,Male,Yukon,No certificate,315,Male 25 to 34
+25 to 34,Male,Yukon,High school,640,Male 25 to 34
+25 to 34,Male,Yukon,College,490,Male 25 to 34
+25 to 34,Male,Yukon,Some university,55,Male 25 to 34
+25 to 34,Male,Yukon,Bachelor's degree or above,640,Male 25 to 34
+25 to 34,Female,Yukon,No certificate,195,Female 25 to 34
+25 to 34,Female,Yukon,High school,650,Female 25 to 34
+25 to 34,Female,Yukon,College,675,Female 25 to 34
+25 to 34,Female,Yukon,Some university,80,Female 25 to 34
+25 to 34,Female,Yukon,Bachelor's degree or above,1095,Female 25 to 34
+35 to 44,Male,Yukon,No certificate,215,Male 35 to 44
+35 to 44,Male,Yukon,High school,450,Male 35 to 44
+35 to 44,Male,Yukon,College,490,Male 35 to 44
+35 to 44,Male,Yukon,Some university,80,Male 35 to 44
+35 to 44,Male,Yukon,Bachelor's degree or above,740,Male 35 to 44
+35 to 44,Female,Yukon,No certificate,150,Female 35 to 44
+35 to 44,Female,Yukon,High school,415,Female 35 to 44
+35 to 44,Female,Yukon,College,765,Female 35 to 44
+35 to 44,Female,Yukon,Some university,105,Female 35 to 44
+35 to 44,Female,Yukon,Bachelor's degree or above,1120,Female 35 to 44
+45 to 54,Male,Yukon,No certificate,415,Male 45 to 54
+45 to 54,Male,Yukon,High school,565,Male 45 to 54
+45 to 54,Male,Yukon,College,470,Male 45 to 54
+45 to 54,Male,Yukon,Some university,65,Male 45 to 54
+45 to 54,Male,Yukon,Bachelor's degree or above,600,Male 45 to 54
+45 to 54,Female,Yukon,No certificate,230,Female 45 to 54
+45 to 54,Female,Yukon,High school,570,Female 45 to 54
+45 to 54,Female,Yukon,College,825,Female 45 to 54
+45 to 54,Female,Yukon,Some university,105,Female 45 to 54
+45 to 54,Female,Yukon,Bachelor's degree or above,805,Female 45 to 54
+55 to 64,Male,Yukon,No certificate,450,Male 55 to 64
+55 to 64,Male,Yukon,High school,415,Male 55 to 64
+55 to 64,Male,Yukon,College,570,Male 55 to 64
+55 to 64,Male,Yukon,Some university,55,Male 55 to 64
+55 to 64,Male,Yukon,Bachelor's degree or above,595,Male 55 to 64
+55 to 64,Female,Yukon,No certificate,285,Female 55 to 64
+55 to 64,Female,Yukon,High school,705,Female 55 to 64
+55 to 64,Female,Yukon,College,690,Female 55 to 64
+55 to 64,Female,Yukon,Some university,125,Female 55 to 64
+55 to 64,Female,Yukon,Bachelor's degree or above,740,Female 55 to 64
+25 to 34,Male,Northwest Territories,No certificate,770,Male 25 to 34
+25 to 34,Male,Northwest Territories,High school,810,Male 25 to 34
+25 to 34,Male,Northwest Territories,College,610,Male 25 to 34
+25 to 34,Male,Northwest Territories,Some university,70,Male 25 to 34
+25 to 34,Male,Northwest Territories,Bachelor's degree or above,630,Male 25 to 34
+25 to 34,Female,Northwest Territories,No certificate,565,Female 25 to 34
+25 to 34,Female,Northwest Territories,High school,790,Female 25 to 34
+25 to 34,Female,Northwest Territories,College,660,Female 25 to 34
+25 to 34,Female,Northwest Territories,Some university,65,Female 25 to 34
+25 to 34,Female,Northwest Territories,Bachelor's degree or above,1210,Female 25 to 34
+35 to 44,Male,Northwest Territories,No certificate,605,Male 35 to 44
+35 to 44,Male,Northwest Territories,High school,575,Male 35 to 44
+35 to 44,Male,Northwest Territories,College,530,Male 35 to 44
+35 to 44,Male,Northwest Territories,Some university,55,Male 35 to 44
+35 to 44,Male,Northwest Territories,Bachelor's degree or above,705,Male 35 to 44
+35 to 44,Female,Northwest Territories,No certificate,490,Female 35 to 44
+35 to 44,Female,Northwest Territories,High school,460,Female 35 to 44
+35 to 44,Female,Northwest Territories,College,740,Female 35 to 44
+35 to 44,Female,Northwest Territories,Some university,95,Female 35 to 44
+35 to 44,Female,Northwest Territories,Bachelor's degree or above,1110,Female 35 to 44
+45 to 54,Male,Northwest Territories,No certificate,740,Male 45 to 54
+45 to 54,Male,Northwest Territories,High school,520,Male 45 to 54
+45 to 54,Male,Northwest Territories,College,645,Male 45 to 54
+45 to 54,Male,Northwest Territories,Some university,75,Male 45 to 54
+45 to 54,Male,Northwest Territories,Bachelor's degree or above,530,Male 45 to 54
+45 to 54,Female,Northwest Territories,No certificate,640,Female 45 to 54
+45 to 54,Female,Northwest Territories,High school,545,Female 45 to 54
+45 to 54,Female,Northwest Territories,College,855,Female 45 to 54
+45 to 54,Female,Northwest Territories,Some university,110,Female 45 to 54
+45 to 54,Female,Northwest Territories,Bachelor's degree or above,605,Female 45 to 54
+55 to 64,Male,Northwest Territories,No certificate,545,Male 55 to 64
+55 to 64,Male,Northwest Territories,High school,410,Male 55 to 64
+55 to 64,Male,Northwest Territories,College,465,Male 55 to 64
+55 to 64,Male,Northwest Territories,Some university,70,Male 55 to 64
+55 to 64,Male,Northwest Territories,Bachelor's degree or above,500,Male 55 to 64
+55 to 64,Female,Northwest Territories,No certificate,500,Female 55 to 64
+55 to 64,Female,Northwest Territories,High school,455,Female 55 to 64
+55 to 64,Female,Northwest Territories,College,630,Female 55 to 64
+55 to 64,Female,Northwest Territories,Some university,120,Female 55 to 64
+55 to 64,Female,Northwest Territories,Bachelor's degree or above,510,Female 55 to 64
+25 to 34,Male,Nunavut,No certificate,1340,Male 25 to 34
+25 to 34,Male,Nunavut,High school,590,Male 25 to 34
+25 to 34,Male,Nunavut,College,375,Male 25 to 34
+25 to 34,Male,Nunavut,Some university,15,Male 25 to 34
+25 to 34,Male,Nunavut,Bachelor's degree or above,285,Male 25 to 34
+25 to 34,Female,Nunavut,No certificate,1230,Female 25 to 34
+25 to 34,Female,Nunavut,High school,580,Female 25 to 34
+25 to 34,Female,Nunavut,College,610,Female 25 to 34
+25 to 34,Female,Nunavut,Some university,25,Female 25 to 34
+25 to 34,Female,Nunavut,Bachelor's degree or above,460,Female 25 to 34
+35 to 44,Male,Nunavut,No certificate,865,Male 35 to 44
+35 to 44,Male,Nunavut,High school,310,Male 35 to 44
+35 to 44,Male,Nunavut,College,375,Male 35 to 44
+35 to 44,Male,Nunavut,Some university,20,Male 35 to 44
+35 to 44,Male,Nunavut,Bachelor's degree or above,310,Male 35 to 44
+35 to 44,Female,Nunavut,No certificate,815,Female 35 to 44
+35 to 44,Female,Nunavut,High school,315,Female 35 to 44
+35 to 44,Female,Nunavut,College,480,Female 35 to 44
+35 to 44,Female,Nunavut,Some university,30,Female 35 to 44
+35 to 44,Female,Nunavut,Bachelor's degree or above,400,Female 35 to 44
+45 to 54,Male,Nunavut,No certificate,805,Male 45 to 54
+45 to 54,Male,Nunavut,High school,220,Male 45 to 54
+45 to 54,Male,Nunavut,College,360,Male 45 to 54
+45 to 54,Male,Nunavut,Some university,30,Male 45 to 54
+45 to 54,Male,Nunavut,Bachelor's degree or above,220,Male 45 to 54
+45 to 54,Female,Nunavut,No certificate,820,Female 45 to 54
+45 to 54,Female,Nunavut,High school,160,Female 45 to 54
+45 to 54,Female,Nunavut,College,505,Female 45 to 54
+45 to 54,Female,Nunavut,Some university,20,Female 45 to 54
+45 to 54,Female,Nunavut,Bachelor's degree or above,275,Female 45 to 54
+55 to 64,Male,Nunavut,No certificate,420,Male 55 to 64
+55 to 64,Male,Nunavut,High school,145,Male 55 to 64
+55 to 64,Male,Nunavut,College,235,Male 55 to 64
+55 to 64,Male,Nunavut,Some university,25,Male 55 to 64
+55 to 64,Male,Nunavut,Bachelor's degree or above,190,Male 55 to 64
+55 to 64,Female,Nunavut,No certificate,445,Female 55 to 64
+55 to 64,Female,Nunavut,High school,90,Female 55 to 64
+55 to 64,Female,Nunavut,College,245,Female 55 to 64
+55 to 64,Female,Nunavut,Some university,40,Female 55 to 64
+55 to 64,Female,Nunavut,Bachelor's degree or above,220,Female 55 to 64
